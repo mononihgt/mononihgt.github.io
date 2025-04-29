@@ -1,0 +1,42 @@
+<script src="https://cdn.jsdelivr.net/npm/social-share.js@1.0.16/dist/js/social-share.min.js"></script>
+<script>
+    socialShare('.social-share', {
+        sites: [
+            {% for i in site.social-share-items %}
+            '{{ i }}'{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+        ],
+    wechatQrcodeTitle: "分享到微信朋友圈",
+        wechatQrcodeHelper: '<p>扫码将本文分享至朋友圈</p><p>或直接点击图标复制链接~</p>'
+      });
+    $("a.social-share-icon").each(function () {
+        $(this).attr("aria-label", $(this).attr("class").split(' ')[1])
+    });
+
+    // --- 新增代码开始 ---
+    // 查找微信分享按钮
+    const wechatButton = $('a.social-share-icon.icon-wechat');
+
+    if (wechatButton.length) {
+        // 移除 social-share.js 可能添加的事件，特别是悬停事件
+        wechatButton.off('click mouseenter mouseleave');
+
+        // 绑定新的点击事件
+        wechatButton.on('click', function(event) {
+            event.preventDefault(); // 阻止默认行为（例如显示二维码或跳转）
+            const urlToCopy = window.location.href; // 获取当前页面链接
+
+            // 使用 Clipboard API 复制链接
+            navigator.clipboard.writeText(urlToCopy).then(() => {
+                alert('当前页面链接已复制!'); // 提示用户复制成功
+            }).catch(err => {
+                console.error('无法复制链接: ', err);
+                alert('复制链接失败，请手动复制。'); // 提示用户复制失败
+            });
+        });
+         // 可选：移除与二维码相关的属性，以防万一
+        wechatButton.removeAttr('data-wechat-qrcode-title');
+        wechatButton.removeAttr('data-wechat-qrcode-helper');
+    }
+    // --- 新增代码结束 ---
+</script>
