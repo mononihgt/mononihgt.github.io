@@ -1,10 +1,10 @@
 ---
 layout: categories
-home-title: 这是小窝的一路楼
+home-title: 屋子里也长出小花
 description: Sleeping, sleeping, sleeping ...
 permalink: /categories.html
-cover: 'https://images.unsplash.com/photo-1649771482867-21eaffe6fcd0'
-cover_author: 'Colin + Meg'
-cover_author_link: 'https://unsplash.com/@colinandmeg'
+cover: 'https://img.dpm.org.cn/Uploads/image/2024/11/08/19201080-FdaaSLoyH207697.jpg'
+cover_author: '故宫博物院'
+cover_author_link: 'https://www.dpm.org.cn/lights/royal.html'
 permalink: /categories.html
 ---
