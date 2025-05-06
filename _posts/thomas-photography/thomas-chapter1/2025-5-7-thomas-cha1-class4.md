@@ -45,3 +45,5 @@ tags:
 ## 后期：高光、中间调、阴影的色彩，人物、天空、植被、灯光、光线的色彩
 
  
+
+*EOF，点击返回[上级目录](/photography/thomas-chapter1-toc.html)*

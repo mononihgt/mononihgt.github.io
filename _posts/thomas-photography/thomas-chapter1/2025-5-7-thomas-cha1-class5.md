@@ -86,3 +86,6 @@ CIEL *a*b* (CIELAB) 是惯常用来描述人眼可见的所有颜色的最完备
 - LAB中的L代表明度，即纯黑到纯白的变化， A代表品红到绿色的变化， B代表黄色到蓝色的变化。
 
 ![img](https://zamg9w9akqn.feishu.cn/space/api/box/stream/download/asynccode/?code=NzQ1ODBhNTQ0N2RhYWRkMzA5YTFjNWFmNmFmOGFmZTFfTmZZUzBmMDM2aUpJVGU4ZzdaQ1RuQ3J6RjBtVWQ5SXRfVG9rZW46S0VJSmI4ak1lbzJDN3p4d1J2emNvQzh1blhiXzE3NDY1NDc4NDY6MTc0NjU1MTQ0Nl9WNA)
+
+
+*EOF，点击返回[上级目录](/photography/thomas-chapter1-toc.html)*

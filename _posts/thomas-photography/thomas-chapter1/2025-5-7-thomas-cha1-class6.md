@@ -60,3 +60,6 @@ ACR里面改工作流程的色彩空间，其实是改变点击“打开”(到p
 # 哪里忘了就再看一遍视频
 
 ![img](https://zamg9w9akqn.feishu.cn/space/api/box/stream/download/asynccode/?code=MTM2NWRkZjc2NjAzNDFmYTE5OThmM2FkMWEzNThiZTlfVEZVaU5Dak92ZUN4c2x5TXNpdmNXRTBNRkhnYjlVQW1fVG9rZW46SW1GWGJkTEhDb3VqM3B4cUlLVWN3cjZpbmJiXzE3NDY1NDc4NzQ6MTc0NjU1MTQ3NF9WNA)
+
+
+*EOF，点击返回[上级目录](/photography/thomas-chapter1-toc.html)*

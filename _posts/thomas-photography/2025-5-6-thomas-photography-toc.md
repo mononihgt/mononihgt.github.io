@@ -24,6 +24,6 @@ tags:
 # ⛳️  知识空间
 
 - [第一章-色彩概论](/photography/thomas-chapter1-toc.html)
-- [第二章-色彩搭配](/_posts/thomas-photograph-secondChapter/toc.md)
-- [第三章-色彩工具与调色技术](/_posts/thomas-photograph-thirdChapter/toc.md)
-- [第四章-风格化调色研究与实战](/_posts/thomas-photograph-fourthChapter/toc.md)
+- [第二章-色彩搭配](/photography/thomas-chapter2-toc.html)
+- [第三章-色彩工具与调色技术](/photography/thomas-chapter3-toc.html)
+- [第四章-风格化调色研究与实战](/photography/thomas-chapter4-toc.html)

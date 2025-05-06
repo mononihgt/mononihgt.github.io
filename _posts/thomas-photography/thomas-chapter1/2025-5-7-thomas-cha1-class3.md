@@ -104,3 +104,5 @@ tags:
 这团树不能太边上，防止失衡
 
 太阳来和左边的山相互平衡
+
+*EOF，点击返回[上级目录](/photography/thomas-chapter1-toc.html)*
