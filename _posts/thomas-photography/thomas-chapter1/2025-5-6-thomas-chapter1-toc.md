@@ -17,7 +17,7 @@ tags:
 
 # 目录
 
-- [第一节 色彩课简介](photography/thomas-cha1-class1.html)
+- [第一节 色彩课简介](/photography/thomas-cha1-class1.html)
 - [第二节 认识色彩](/photography/thomas-cha1-class2.html)
 - [第三节 色彩与感受](/photography/thomas-cha1-class3.html)
 - [第四节 色彩与风格](/photography/thomas-cha1-class4.html)
