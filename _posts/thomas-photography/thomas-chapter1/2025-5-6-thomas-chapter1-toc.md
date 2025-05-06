@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '色彩概论'
-subtitle: '第一章 色彩概论'
+title: '第一章 色彩概论'
+subtitle: '色彩概论'
 date: 2025-5-6 20:00:00 +0800
 categories: photography
 author: mpxuann
@@ -11,7 +11,7 @@ cover_author_link: 'https://www.dpm.org.cn/lights/royal.html'
 tags: 
 - 摄影
 - Thomas
-pin: false
+# pin: false
 # submenu: 'begin'
 ---
 
