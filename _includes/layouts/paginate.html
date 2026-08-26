@@ -1,22 +1,17 @@
-{% assign page_num = paginator.page %}
-{% assign page_start = page_num | minus: 1 | times: site.pagination.per_page %}
-{% assign page_end = page_num | times: site.pagination.per_page %}
-{% assign post_index = 0 %}
-
-{% for post in site.posts %}
-    {% if post.pin %}
-        {% if post_index >= page_start and post_index < page_end %}
+{% if paginator %}
+    {% for post in paginator.posts %}
+        {% include layouts/paginate-article.html %}
+    {% endfor %}
+{% else %}
+    {% for post in site.posts %}
+        {% if post.pin %}
             {% include layouts/paginate-article.html %}
         {% endif %}
-        {% assign post_index = post_index | plus: 1 %}
-    {% endif %}
-{% endfor %}
+    {% endfor %}
 
-{% for post in site.posts %}
-    {% unless post.pin %}
-        {% if post_index >= page_start and post_index < page_end %}
+    {% for post in site.posts %}
+        {% unless post.pin %}
             {% include layouts/paginate-article.html %}
         {% endif %}
-        {% assign post_index = post_index | plus: 1 %}
-    {% endunless %}
-{% endfor %}
+    {% endfor %}
+{% endif %}

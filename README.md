@@ -86,7 +86,7 @@ Please refer to [H2O-ac theme for Jekyll](https://lisz.me/tech/webmaster/new-the
 
 ## Deployment note
 
-The blog pagination directly iterates pinned and unpinned posts so it renders consistently in GitHub Pages' managed Jekyll build and local or Vercel builds.
+The blog list uses `paginator.posts` when pagination is available and otherwise directly renders pinned, then unpinned, posts. This keeps it compatible with GitHub Pages' managed Jekyll build and local or Vercel builds.
 
 ## Contribution 贡献
 
