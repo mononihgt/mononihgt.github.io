@@ -84,6 +84,10 @@ Using your smartphone to scan the QR Code for preview
 
 Please refer to [H2O-ac theme for Jekyll](https://lisz.me/tech/webmaster/new-theme-h2o-ac.html) for details.
 
+## Deployment note
+
+The blog pagination filters unpinned posts with `where_exp` so it renders consistently in GitHub Pages' managed Jekyll build and local or Vercel builds.
+
 ## Contribution 贡献
 
 Any types of contribution are welcome. Thanks.
