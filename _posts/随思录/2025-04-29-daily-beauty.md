@@ -38,25 +38,25 @@ pin: true
 
 ## 苏打绿 《蝉》
 
-![苏打绿 《蝉》](/assets/img/suisilu/chan.png)
+![](assets/img/2025-04-29-daily-beauty/chan.png)
 
 
 ## 苏打绿 《无眠》
 
-![苏打绿 《无眠》](/assets/img/suisilu/wumian.png)
+![苏打绿 《无眠》](/assets/img/2025-04-29-daily-beauty/wumian.png)
 
 ## 鹿先森 《小生活》
 
-![鹿先森 《小生活》](/assets/img/suisilu/luxiansen.png)
+![鹿先森 《小生活》](/assets/img/2025-04-29-daily-beauty/luxiansen.png)
 
 # 一些照片
 
 ## 一轮弯月 一颗明星
-![忘了是金星还是木星了](/assets/img/suisilu/moon.jpg)
+![忘了是金星还是木星了](/assets/img/2025-04-29-daily-beauty/moon.jpg)
 
 ## 一只大鱼
 
-![天上的云鲸](/assets/img/suisilu/dayu.jpg)
+![天上的云鲸](/assets/img/2025-04-29-daily-beauty/dayu.jpg)
 
 # 大一的时候和wgy参加活动唱的《盛夏》
 
@@ -86,7 +86,7 @@ pin: true
 
 ## 爱乐之城
 
-![天黑了，天亮了](/assets/img/suisilu/lalaland.png)
+![天黑了，天亮了](/assets/img/2025-04-29-daily-beauty/lalaland.png)
 
 ## 本杰明巴顿奇事 
 

@@ -11,3 +11,6 @@ _site
 *.gem
 
 dist
+
+.obsidian
+template
