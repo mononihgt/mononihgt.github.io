@@ -38,7 +38,7 @@ pin: true
 
 ## 苏打绿 《蝉》
 
-![](assets/img/2025-04-29-daily-beauty/chan.png)
+![苏打绿《蝉》](assets/img/2025-04-29-daily-beauty/chan.png)
 
 
 ## 苏打绿 《无眠》
