@@ -12,6 +12,6 @@
     {% for post in site.posts %}
         {% unless post.pin %}
             {% include layouts/paginate-article.html %}
-        {% endif %}
+        {% endunless %}
     {% endfor %}
 {% endif %}
