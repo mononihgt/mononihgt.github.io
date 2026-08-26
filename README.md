@@ -88,6 +88,16 @@ Please refer to [H2O-ac theme for Jekyll](https://lisz.me/tech/webmaster/new-the
 
 The blog list uses `paginator.posts` when pagination is available and otherwise directly renders pinned, then unpinned, posts. This keeps it compatible with GitHub Pages' managed Jekyll build and local or Vercel builds.
 
+文章中的提示框同时支持 H2O-ac 原生语法和 GitHub 风格语法。推荐使用 GitHub 风格写法，例如 `> [!warning] 标题`、`> [!note] 标题`、`> [!info] 标题`、`> [!tip] 标题`、`> [!error] 标题` 和 `> [!citation] 来源`；页面脚本会将它们转换为主题原有的提示框样式（`tip` 使用 `info` 样式）。旧的 `> warning "标题"` 等写法也会兼容处理。
+
+```markdown
+> [!warning] 几个容易混淆的地方
+> 1. 混淆 1
+
+> [!citation] 《庄子·知北游》
+> 曰：
+```
+
 ## Contribution 贡献
 
 Any types of contribution are welcome. Thanks.
