@@ -19,7 +19,7 @@ pin: true
 
 ## Say you, say me
 
-> citation "Lionel Richie"
+> [!citation] Lionel Richie
 > As we go down life's lonesome highway 
 > 
 > seems the hardest thing to do 
@@ -59,7 +59,7 @@ pin: true
 # 大一的时候和wgy参加活动唱的《盛夏》
 
 
-> citation ""
+> [!citation]
 > <p><em><span>那是日落时候轻轻发出的叹息啊</span>
 > <span>昨天已经走远了 明天该去哪啊</span>
 > <span>相框里的那些闪闪发光的我们啊</span>
@@ -88,7 +88,7 @@ pin: true
 
 ## 本杰明巴顿奇事 
 
-> citation "The Curious Case of Benjamin Button"
+> [!citation] The Curious Case of Benjamin Button
 > *   "For what it's  worth, it's never too late, ... or, in my case, too early,"
 > 
 > 	to be whoever you want to be.
@@ -148,7 +148,7 @@ pin: true
 
 ## 超脱
 
-> citation "Detachment"
+> [!citation] Detachment
 > * Whatever is on my mind, I say that's a feeling. I am truthful to myself. I'm young, and I'm old. I've been bought and I've been sold, so many times. I am hard to face, I am gone. I am just like you.
 > 
 > * I think a sense of humor is key. I don't possess it. hahaha...I mean, I do, in a tragic sort of way.
@@ -159,7 +159,7 @@ pin: true
 
 ## 怦然心动
 
-> citation "Flipped"
+> [!citation] Flipped
 > 
 > * A cow by itself is just a cow.
 > 
@@ -175,7 +175,7 @@ pin: true
 
 ## 了不起的盖茨比
 
-> citation "The Great Gatsby"
+> [!citation] The Great Gatsby
 > * "Jay!
 > 
 > 	They're a rotten coward.
