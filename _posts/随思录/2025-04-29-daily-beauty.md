@@ -1,18 +1,16 @@
 ---
 layout: post
-title: '赌书消得泼茶香'
-subtitle: '吉光片羽，抑或是飘零的蓬草'
+title: 赌书消得泼茶香
+subtitle: 吉光片羽，抑或是飘零的蓬草
 date: 2025-4-29 16:17:00 +0800
 categories: life
 author: mpxuann
-cover: 'https://taociguan.dpm.org.cn/images/zjcphoto/2024-09-16/06009b5d0d0f47a4b8c319dff37c5c1f.jpg'
-cover_author: '故宫博物院'
-cover_author_link: 'https://www.dpm.org.cn/lights/royal.html'
-tags: 
-- 随思录
-- 生活
+cover: https://taociguan.dpm.org.cn/images/zjcphoto/2024-09-16/06009b5d0d0f47a4b8c319dff37c5c1f.jpg
+cover_author: 故宫博物院
+cover_author_link: https://www.dpm.org.cn/lights/royal.html
+tags:
+  - daily
 pin: true
-# submenu: 'begin'
 ---
 
 整理一下曾经记录的东西

@@ -1,17 +1,15 @@
 ---
 layout: post
-title: '苏格拉底提问法'
-subtitle: '世人阙苏格拉底久矣'
+title: 苏格拉底提问法
+subtitle: 世人阙苏格拉底久矣
 date: 2025-5-7 20:00:00 +0800
 categories: Thinking
 author: mpxuann
-cover: 'https://pic.rmb.bdstatic.com/84cb44574e34a00b62da54a18ca0d370.jpeg'
-cover_author: '拉斐尔'
-cover_author_link: 'https://en.wikipedia.org/wiki/Raphael'
-tags: 
-- 随思录
-# pin: false
-# submenu: 'begin'
+cover: https://pic.rmb.bdstatic.com/84cb44574e34a00b62da54a18ca0d370.jpeg
+cover_author: 拉斐尔
+cover_author_link: https://en.wikipedia.org/wiki/Raphael
+tags:
+  - think
 ---
 
 
